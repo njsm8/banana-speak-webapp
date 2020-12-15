@@ -22,7 +22,7 @@ h1 {
     margin:0px;
 }
 
-#output, #txt-input{
+#output-msg, #txt-input{
     border: 1px solid black;
     height: 25vh;
     width: 90%;
