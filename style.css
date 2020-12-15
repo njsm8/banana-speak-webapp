@@ -25,7 +25,7 @@ h1 {
 #output, #txt-input{
     border: 1px solid black;
     height: 25vh;
-    width: 100%;
+    width: 90%;
     margin: 1rem;
     padding: 1rem;
     background-color: white;
@@ -46,3 +46,8 @@ button {
     margin: auto;
 }
 
+.responsive-image {
+    max-width: 350px;
+    display: block;
+    margin: auto;
+}
